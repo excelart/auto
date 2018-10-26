@@ -14,6 +14,10 @@ python3 auto.py
 
 demo
 
+![](demo.gif)
+
+video
+
 ```
 https://github.com/excelart/auto/raw/master/demo.mp4
 ```
